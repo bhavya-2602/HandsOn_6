@@ -12,13 +12,13 @@
 <br>
 <br>
 
-![alt text](benchmark.png)
+![alt text](Benchmark.png)
 
 # Problem 3
 
-![alt text](Answer.pdf)
+![alt text](Answer 3.pdf)
 
 
 
 
-[def]: benchmark.png
+[def]: Benchmark.png
