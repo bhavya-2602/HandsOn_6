@@ -1,6 +1,24 @@
-    ** Problem 1**
-    * Code for QuickSort Random pivot is QuickSortRandom.py
-    * Code for QuickSort with NonRandom pivot is QuickSortNonRandom.py
+# HandsOn_6
 
-    **Problem 2**
-    + Code for Benchmark is given NonRandomBenchmark.py
+# Problem 1
+
+* Code for QuickSort with Random Pivot  is  [`QuickSortRandom.py`](QuickSortRandom.py)
+
+* Code for QuickSort with NonRandom Pivot  is  [`QuickSortNonRandom.py`](QuickSortNonRandom.py)
+
+# Problem 2
+
+* Code for Benchmark is given [`NonRandomBenchmark.py`](NonRandomBenchmark.py)
+<br>
+<br>
+
+![alt text](benchmark.png)
+
+# Problem 3
+
+![alt text](Answer.pdf)
+
+
+
+
+[def]: benchmark.png
