@@ -16,7 +16,8 @@
 
 # Problem 3
 
-![alt text](Answer 3.pdf)
+![alt text](Answer3-1.png)
+![alt text](Answer3-2.png)
 
 
 
